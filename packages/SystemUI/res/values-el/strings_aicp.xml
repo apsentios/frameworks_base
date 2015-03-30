@@ -51,4 +51,21 @@
     <!-- Quick settings -->
     <string name="quick_settings_screenrecord">Καταγραφή οθόνης</string>
 
+    <!-- Screenrecord Notification Ticker -->
+    <string name="screenrecord_notif_ticker">Οθόνη καταγράφεται</string>
+
+    <!-- Screenrecord notification title -->
+    <string name="screenrecord_notif_title">Εγγραφή οθόνης</string>
+
+    <!-- Screenrecord notification action: Stop -->
+    <string name="screenrecord_notif_stop">Παύση</string>
+
+    <!-- Screenrecord notification action: show/hide pointer -->
+    <string name="screenrecord_notif_pointer_on">Δείκτης</string>
+    <string name="screenrecord_notif_pointer_off">Απόκρυψη</string>
+
+    <!-- Screen record notification error title -->
+    <string name="screenrecord_notif_error">Δεν καταγράφεται</string>
+    <string name="quick_settings_screenrecord_on">Καταγράφεται...</string>
+
 </resources>
